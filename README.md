@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J00les1
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP(Laravel)/CSS(Bootstrap 5), I want to continue learning Java and at some point Python.
+- 🌱 I’m currently learning python for data science to evaluate measured data.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, uhm well idk I'm an introvert leave me alone.
 
